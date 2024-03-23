@@ -1,6 +1,6 @@
 {
-  "name": "ibc-app-solidity-template",
-  "version": "1.0.0",
+  "name": "@aingtea/nuaing_tea",
+  "version": "1.0.3",
   "description": "Template project to start building IBC enabled Solidity contracts, with Hardhat and Foundry support",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/open-ibc/ibc-app-solidity-template.git"
+    "url": "https://github.com/Nuaingtea/nuaing_tea"
   },
   "keywords": [
     "IBC",
@@ -17,9 +17,9 @@
   "author": "Polymer Labs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/open-ibc/ibc-app-solidity-template/issues"
+    "url": "https://github.com/Nuaingtea/nuaing_tea/issues"
   },
-  "homepage": "https://github.com/open-ibc/ibc-app-solidity-template#readme",
+  "homepage": "https://github.com/Nuaingtea/nuaing_tea#readme",
   "devDependencies": {
     "@nomicfoundation/hardhat-foundry": "^1.1.1",
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
@@ -29,6 +29,10 @@
     "@openzeppelin/contracts": "^4.7.6",
     "axios": "^1.6.7",
     "dotenv": "^16.4.1",
-    "hardhat-verify": "^1.0.0"
+    "hardhat-verify": "^1.0.0",
+    "nuaing_tea": "^1.1.2"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
