@@ -1,12 +1,7 @@
 {
   "name": "@aingtea/nuaing_tea",
   "version": "1.1.2",
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
+ 
   "dependencies": {
     "next": "14.1.4",
     "nuaing_tea": "^1.1.2",
