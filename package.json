@@ -1,7 +1,7 @@
 {
   "name": "@aingtea/nuaing_tea",
   "version": "1.0.3",
-  "description": "Template project to start building IBC enabled Solidity contracts, with Hardhat and Foundry support",
+  "description": "Template project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
